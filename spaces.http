@@ -1,0 +1,18 @@
+GET https://om8x28ecnl.execute-api.eu-west-2.amazonaws.com/prod/spacess
+###
+
+
+POST https://om8x28ecnl.execute-api.eu-west-2.amazonaws.com/prod/spacess
+
+{
+    "location": "Tehran"
+}
+###
+
+PUT https://om8x28ecnl.execute-api.eu-west-2.amazonaws.com/prod/spacess
+###
+
+DELETE https://om8x28ecnl.execute-api.eu-west-2.amazonaws.com/prod/spacess
+###
+
+
